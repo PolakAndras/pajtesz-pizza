@@ -7,7 +7,7 @@
 
 A **Pajtesz Pizza** egy kitalált gyorsétterem online rendelőfelülete, PHP-ban, keretrendszer nélkül. A vásárlók regisztráció után összeállíthatják a kosarukat (pizzaméret, extrák, mennyiség, megjegyzés), majd házhozszállítással vagy személyes átvétellel rendelhetnek, akár egy későbbi időpontra is. Minden rendelésről visszaigazoló e-mail készül, és a vásárló akkor is értesítést kap, amikor a rendelése készülni kezd, illetve elkészül. Az adminisztrátor kezeli a beérkező rendeléseket és szerkeszti az étlapot.
 
-> **🔗 Élő demó:** hamarosan (a link ide kerül)
+> **🔗 Élő demó: <http://pajteszpizza.infinityfree.me>** (a belépési adatokat lásd lent, a [Demó fiókok](#demó-fiókok) résznél)
 >
 > **🔒 Forráskód:** a kód egy privát repóban van. Kérésre szívesen megmutatom: **polak.andras@gmail.com**
 
